@@ -4,4 +4,4 @@
 
 ## Follow me on Twitter - <https://twitter.com/techgirldiaries>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5c0e9bf3-75a1-4feb-80ce-2b10612c7ead/deploy-status)](https://app.netlify.com/sites/motionfit-tracker/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9d62d4cb-17e2-4a53-95b3-bc90d2458625/deploy-status)](https://app.netlify.com/sites/thefitlife/deploys)
